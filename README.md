@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IsReda
-- 👀 I’m interested in DataScience
+- 👀 I’m interested in Python and DataScience
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on developing my skills
 - 📫 How to reach me "Here"
