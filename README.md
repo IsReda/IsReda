@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @IsReda
-- 👀 I’m interested in Python and DataScience
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on developing my skills
-- 📫 How to reach me "Here"
+👋 Hi, I'm @IsReda
+🧠 IBM AI Engineering Professional Certificate — in progress
+🐍 Python · Deep Learning · Keras · PyTorch · GenAI · LLMs
+🌍 Based in France
+🎯 Currently exploring: Neural Networks, Activation Functions & Backpropagation
+💡 Building: automated AI study pipeline with Claude + GitHub
+💞️ Open to collaborate on AI & Data Science projects
+📫 How to reach me: https://www.linkedin.com/in/reda-kabouche/
 
 <!---
 IsReda/IsReda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
