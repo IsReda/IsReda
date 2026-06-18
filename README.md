@@ -16,6 +16,7 @@ I also built an **automated study pipeline** that converts course labs into prof
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -28,26 +29,29 @@ I also built an **automated study pipeline** that converts course labs into prof
 
 | # | Course | Status |
 |---|--------|--------|
-| 1 | 🐍 ML with Python | ✅ Completed |
-| 2 | 🧠 Deep Learning & Keras | 🔄 In Progress |
-| 3 | ⚡ Scalable ML on Apache Spark | ⬜ Upcoming |
-| 4 | 🔥 Deep Learning with PyTorch | ⬜ Upcoming |
-| 5 | 🎯 AI Capstone with Deep Learning | ⬜ Upcoming |
-| 6 | 📊 ML Capstone | ⬜ Upcoming |
-| 7 | 🤖 GenAI & LLMs: Architecture | ⬜ Upcoming |
-| 8 | 💬 GenAI Foundational Models & NLP | ⬜ Upcoming |
-| 9 | 🔤 GenAI Language Modeling with Transformers | ⬜ Upcoming |
-| 10 | ⚙️ GenAI Engineering & Fine-Tuning | ⬜ Upcoming |
-| 11 | 🎛️ GenAI Advanced Fine-Tuning for LLMs | ⬜ Upcoming |
-| 12 | 🔗 AI Agents with RAG & LangChain | ⬜ Upcoming |
-| 13 | 🏗️ Project: GenAI Apps with RAG & LangChain | ⬜ Upcoming |
+| 1 | 🐍 Machine Learning with Python | ✅ Completed |
+| 2 | 🧠 Intro to Deep Learning & Neural Networks with Keras | ✅ Completed |
+| 3 | ⚡ Deep Learning with Keras and TensorFlow | 🔄 In Progress |
+| 4 | 🔥 Introduction to Neural Networks and PyTorch | ⬜ Upcoming |
+| 5 | 🎯 Deep Learning with PyTorch | ⬜ Upcoming |
+| 6 | 📊 AI Capstone Project with Deep Learning | ⬜ Upcoming |
+| 7 | 🤖 Generative AI and LLMs: Architecture and Data Preparation | ⬜ Upcoming |
+| 8 | 💬 Gen AI Foundational Models for NLP & Language Understanding | ⬜ Upcoming |
+| 9 | 🔤 Generative AI Language Modeling with Transformers | ⬜ Upcoming |
+| 10 | ⚙️ Generative AI Engineering and Fine-Tuning Transformers | ⬜ Upcoming |
+| 11 | 🎛️ Generative AI Advanced Fine-Tuning for LLMs | ⬜ Upcoming |
+| 12 | 🔗 Fundamentals of AI Agents Using RAG and LangChain | ⬜ Upcoming |
+| 13 | 🏗️ Project: Generative AI Applications with RAG and LangChain | ⬜ Upcoming |
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
 ### 🧠 [IBM-AI-Engineering](https://github.com/IsReda/IBM-AI-Engineering)
 My complete IBM AI Engineering course repository — professionally organised notebooks with full narrative, LaTeX formulas, and automated GitHub sync pipeline.
+
+### 🏆 [kaggle-notebooks](https://github.com/IsReda/kaggle-notebooks)
+Kaggle competition notebooks — Digit Recognizer (0.989 accuracy), Titanic survival prediction, Stellar Classification (0.955 accuracy).
 
 ---
 
